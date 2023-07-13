@@ -11,6 +11,6 @@ enum class ECobaltUsage
 #define URL_HOST "127.0.0.1"
 #define URL_PORT "3551"
 
-#define SHOW_WINDOWS_CONSOLE
+// #define SHOW_WINDOWS_CONSOLE
 
 constexpr static ECobaltUsage CobaltUsage = ECobaltUsage::Private;
